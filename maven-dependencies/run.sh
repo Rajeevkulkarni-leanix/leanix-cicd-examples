@@ -15,4 +15,4 @@ curl -X POST \
     -H 'content-type: multipart/form-data; boundary=----WebKitFormBoundary7MA4YWxkTrZu0gW' \
     -F 'api_token='$TOKEN \
     -F 'host=app.leanix.net' \
-    -F 'file=@maven-dependency.xml'
+    -F 'file=@maven-dependencies.xml'
